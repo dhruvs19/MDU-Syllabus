@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">M.D.U Syllabus </string>
+    <color name="maincolor">#9ED2F8</color>
+    <string name="share">share</string>
+
+    <string name="about">About Developer</string>
+
+    <string name="title_main_activity">B.tech Syllabus</string>                                  //displaying the years
+    <string name="main_heading">MDU B.TECH Syllabus</string>
+    <string name="edit_message">Enter the message here!</string>
+    <string name="first_year">I\'st Year</string>
+    <string name="second_year">II\'nd Year</string>
+    <string name="third_year">III\'rd Year</string>
+    <string name="fourth_year">IV\'th Year</string>
+
+
+    <string name="title_activity_displayfirstsubs">Sem - 1</string>                  //displaying 1'st years subjects
+    <string name="firstsubs">Subjects of I\'st Sem</string>
+    <string name="sem1sub1">Maths</string>
+    <string name="sem1sub2">English</string>
+    <string name="sem1sub3">Physics</string>
+    <string name="sem1sub4">Basics Of Electronics</string>
+    <string name="sem1sub5">Fundamentals of computers</string>
+    <string name="sem1sub6">Basics Of Mechanical Engineering</string>
+    <string name="title_activity_webviewactivity"></string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_semester">Semester</string>
+    <string name="semester">Choose Your Semester</string>
+    <string name="sem1">1\'st Semester</string>
+    <string name="sem2">2\'nd Semester</string>
+
+    <string name="title_activity_displaysecondsubs">Sem - 2</string>          //displaying 2'nd sem subjects
+    <string name="secondsubs">Subjects of II\'nd Sem</string>
+    <string name="sem2sub1">Maths</string>
+    <string name="sem2sub2">English</string>
+    <string name="sem2sub3">Physics</string>
+    <string name="sem2sub4">Chemistry</string>
+    <string name="sem2sub6">Electrical Technology</string>
+    <string name="sem2sub7">Engineering Graphics And Drawings</string>
+    <string name="sem2sub5">Workshop Technology</string>
+
+</resources>

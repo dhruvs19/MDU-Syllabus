@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.myfirstapp.dhruv.myfirstapp.displaysecondsubs">
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+
+        />
+    <item android:id="@+id/action_share"
+        android:title="@string/share"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_share"
+        />
+</menu>
